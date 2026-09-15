@@ -73,15 +73,15 @@ If you use this dataset in your research, please cite it as:
 }
 ```
 
-## :handshake: Remerciements
+## :handshake: Acknowledgments
 
 <div align="center">
 
 | ![AID](.github/aid.png) | ![Lab-STICC](.github/lab-sticc.svg) | ![UBS](.github/ubs.svg) |
 |:---:|:---:|:---:|
 
-Ces travaux sont réalisés dans le cadre d'une thèse au laboratoire [Lab-STICC](https://labsticc.fr) au sein de l'[Université de Bretagne Sud (UBS)](https://univ-ubs.fr).
-Ces travaux sont soutenus financièrement par l'Agence Innovation Défense (AID).
+This work is carried out as part of a thesis at the [Lab-STICC](https://labsticc.fr) laboratory within [South Brittany University (UBS)](https://univ-ubs.fr).
+This work is financially supported by the Defense Innovation Agency (AID).
 
 </div>
 
