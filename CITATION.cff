@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "USVLoc: Infrared Topographic Based Cross-view Localization in Maritime Environment"
+authors:
+  - family-names: Foucher
+    given-names: Alexandre
+  - family-names: Seguin
+    given-names: Cédric
+  - family-names: Heller
+    given-names: Dominique
+  - family-names: Laurent
+    given-names: Johann
+type: dataset
+license: CC-BY-NC-SA-4.0
+date-released: 2026-09-14
+version: 1.0.0
+message: "If you use this dataset in your research, please cite it as below."
