@@ -7,6 +7,14 @@
 USVLoc is a dataset designed for research in autonomous surface vehicle localization.
 The dataset provides paired visual data (RGB and infrared) with precise geographical coordinates and heading information.
 
+<div align="center">
+
+<img src=".github/dataset.png" alt="Dataset samples" width="650">
+
+*Samples from the training set of the dataset sorted by column, with the corresponding RGB, IR, and rendered images for each sample.*
+
+</div>
+
 ## Data Format
 
 ### Directory Structure
@@ -51,14 +59,14 @@ Each split contains a `data.csv` file with the following columns:
 | test_4.tar.gz | 0.2 | 753 | Test split 4 for evaluation | [Download][download-test4] |
 | grid.tar.gz | 1.2 | 91 290 | Topographic grid reference images for cross-view localization | [Download][download-grid] |
 
-[download-train]: #
-[download-val]: #
-[download-test0]: #
-[download-test1]: #
-[download-test2]: #
-[download-test3]: #
-[download-test4]: #
-[download-grid]: #
+[download-train]: https://labsticc.univ-ubs.fr/USVloc/train.tar.gz
+[download-val]: https://labsticc.univ-ubs.fr/USVloc/val.tar.gz
+[download-test0]: https://labsticc.univ-ubs.fr/USVloc/test_0.tar.gz
+[download-test1]: https://labsticc.univ-ubs.fr/USVloc/test_1.tar.gz
+[download-test2]: https://labsticc.univ-ubs.fr/USVloc/test_2.tar.gz
+[download-test3]: https://labsticc.univ-ubs.fr/USVloc/test_3.tar.gz
+[download-test4]: https://labsticc.univ-ubs.fr/USVloc/test_4.tar.gz
+[download-grid]: https://labsticc.univ-ubs.fr/USVloc/grid.tar.gz
 
 ## :black_nib: Usage and Citation
 
@@ -77,7 +85,7 @@ If you use this dataset in your research, please cite it as:
 
 <div align="center">
 
-| ![AID](.github/aid.png) | ![Lab-STICC](.github/lab-sticc.svg) | ![UBS](.github/ubs.svg) |
+| <img src=".github/aid.png" alt="AID" width="120"> | <img src=".github/lab-sticc.svg" alt="Lab-STICC" width="120"> | <img src=".github/ubs.svg" alt="UBS" width="120"> |
 |:---:|:---:|:---:|
 
 This work is carried out as part of a thesis at the [Lab-STICC](https://labsticc.fr) laboratory within [South Brittany University (UBS)](https://univ-ubs.fr).
@@ -89,5 +97,5 @@ This work is financially supported by the Defense Innovation Agency (AID).
 
 [![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This dataset is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**. 
+This dataset is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
 See LICENSE file for details.
